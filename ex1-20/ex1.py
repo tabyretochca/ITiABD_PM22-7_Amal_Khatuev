@@ -1,6 +1,6 @@
 #y = a*x**2 + cos(2*x+1)#
 
-from math import*
+from math import *
 
 a = float(input('Введите значение a ='))
 x = float(input('Введите значение x ='))
